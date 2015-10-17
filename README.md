@@ -1,4 +1,4 @@
-# spring-boot-sample
+# gredle-sample
 This is a sample for usage of gradle. <br>
 You can learn more from http://spring.io/guides/gs/gradle/
 
